@@ -1,0 +1,1 @@
+// é só pesquisar no google os metodos Math
